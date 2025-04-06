@@ -1,0 +1,14 @@
+$primary: #1d1d1f;
+
+// Font size scale
+$font-size-base: 0.875rem;
+$h1-font-size: 2rem;
+$h2-font-size: 1.5rem;
+$h3-font-size: 1.18rem;
+
+// Import Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+body {
+  background: #f2f2f4;
+}
